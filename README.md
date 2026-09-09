@@ -52,5 +52,9 @@
 * [Medium 連結](https://medium.com/@yifyu1122/day-7-%E5%A4%A7%E5%AD%B8%E7%94%9F%E7%95%A2%E5%B0%88%E5%AF%A6%E9%8C%84-unicode-%E5%8D%B1%E6%A9%9F-unk-%E6%98%AF%E4%BB%80%E9%BA%BC-nfc-nfd-%E5%8F%88%E6%98%AF%E4%BB%80%E9%BA%BC-%E6%80%8E%E9%BA%BC%E6%B2%92%E4%BA%BA%E8%B7%9F%E6%88%91%E8%AA%AA%E6%A8%A1%E5%9E%8B%E8%A8%93%E7%B7%B4%E9%82%84%E8%A6%81%E7%AE%A1%E9%80%99%E4%BA%9B-bff02724677b?postPublishedType=initial6)
 * iThome 連結 (待釋出)
 
+### Day 08: 模型訓練場目睹之怪現狀
+* [Medium 連結](https://medium.com/@yifyu1122/day-8-%E5%A4%A7%E5%AD%B8%E7%94%9F%E7%95%A2%E5%B0%88%E5%AF%A6%E9%8C%84-%E6%A8%A1%E5%9E%8B%E8%A8%93%E7%B7%B4%E5%A0%B4%E7%9B%AE%E7%9D%B9%E4%B9%8B%E6%80%AA%E7%8F%BE%E7%8B%80-0ce56c1725a2)
+* iThome 連結 (待釋出)
+
 ---
 *更多文章與程式碼實驗將隨賽程持續更新，敬請期待！*
